@@ -9,6 +9,7 @@ Create a single launchpad for all engineering projects, complete with specific t
 ## Task A: Portfolio Analysis
 
 [Tranh Tran Portfolio] (https://thanhvtran.com)
+
 [Keegan Fine Portfolio] (https://keeganfine.github.io/megr2157-portfolio/)
 
 Navigability: 
