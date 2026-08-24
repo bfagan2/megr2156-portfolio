@@ -6,7 +6,7 @@ Create a single launchpad for all engineering projects, complete with specific t
 
 ## Analyze
 
-Task A: Portfolio Analysis
+## Task A: Portfolio Analysis
 
 [Tranh Tran Portfolio] (https://thanhvtran.com)
 [Keegan Fine Portfolio] (https://keeganfine.github.io/megr2157-portfolio/)
@@ -23,7 +23,7 @@ While it is understandable to keep professional projects vague for the sake of t
 Professional Tone:
 Tranh's portfolio is entertaining to read and comes off as personable, but the language that he uses is not at the level of something that should be handed to a professional, let alone a superior. He writes as if he is speaking to a fellow student or colleague, not as if he is presenting to a board of professionals.
 
-Task B: Product Analysis
+## Task B: Product Analysis
 
 Chosen Product: Carabiner
 
@@ -38,7 +38,7 @@ The clip mechanism consists of a metal cylinder bent and riveted directly into t
 
 <img width="497" height="588" alt="Carabiner Patent with Thumb Grip" src="https://github.com/user-attachments/assets/2109def3-a133-4603-9a92-b37ddd9e6c3f" />
 
-A patent for an updated carabiner with a thumb grip is filed under US Patent Number 5329675 and was filed on July 19, 1994 to Black Diamond Equipment Ltd. In the climbing context, simply connecting ropes using knots is theoretically possible, but it takes time and introduces the possibility of failure within the knot itself. Using a carabiner allows for quick release and attachment, and is much stronger than a rope connection. Additionally, tying and untying ropes frays the ends, making the rope weaker and harder to tie. A permanent connection in the form of thimbles or sleeves, which are tubes of metal that are form-fitted to the ends of the rope to connect them together, however they are permanent. They are useful if the rope ends will remain fixed in place, but for climbing, their lack of maneuverability makes for cumbersome operations. Connecting and disconnecting ropes is vital to a successful climb and the carabiner can be removed and reused on other ropes. In the patent design there is an added thumb-grip at the back of the carabiner. This was designed to be easier for the climber to operate without having to look at the carabiner. The climber can identify the orientation of the carabiner using their hands, and does not require them to observe the fastener with their eyes.
+A patent for an updated carabiner with a thumb grip is filed under US Patent Number 5329675 and was filed on July 19, 1994 to Black Diamond Equipment Ltd. In the climbing context, simply connecting ropes using knots is theoretically possible, but it takes time and introduces the possibility of failure within the knot itself. Using a carabiner allows for quick release and attachment, and is much stronger than a rope connection. Additionally, tying and untying ropes frays the ends, making the rope weaker and harder to tie. A permanent connection in the form of thimbles or sleeves, which are tubes of metal that are form-fitted to the ends of the rope to connect them together, are permanent. They are useful if the rope ends will remain fixed in place, but for climbing, their lack of maneuverability makes for cumbersome operations. Connecting and disconnecting ropes is vital to a successful climb and the carabiner can be removed and reused on other ropes. In the patent design there is an added thumb-grip at the back of the carabiner. This was designed to be easier for the climber to operate without having to look at the carabiner. The climber can identify the orientation of the carabiner using their hands, and does not require them to observe the fastener with their eyes.
 
 
 ## Decide
