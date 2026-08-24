@@ -58,3 +58,4 @@ The documents present in this portfolio are prepared with the intent and precisi
 
 ## Communicate
 
+See "About Me" page for communication portion of assignment.
