@@ -15,14 +15,22 @@ Create a single launchpad for all engineering projects, complete with specific t
 Navigability: 
 Tranh's portfolio is broken up neatly, separating personal and professional projects. The homepage provides basic information on the purpose of the portfolio, but involves a lot of graphics, which makes the information difficult to read. Each project in the project tab links to a separate page dedicated to the project specifics. However, when hovering over the project tab on the homepage, there is no dropdown to navigate directly to each project page.
 
+Keegan's portfolio follows the same format as the template we were given, with the navigation hub on the left side of the page and assignments and projects broken down below them. As I am familiar with the layout, it is easy for me to navigate, and that does not change for a stranger to the website.
+
 Reproducibility:
 Tranh's project pages focus mainly on the final product. There is barely any information on the processes taken, and makes reproducibility almost impossible.
+
+Keegan's assignment pages mainly require reasoning and explanation. It is difficult to see where analysis and pictographic communication will be implemented. Step-by-step processes are not easily fitted into the structure of the page, but are massively helpful in communicating how the project was completed.
 
 Evidence of Reasoning:
 While it is understandable to keep professional projects vague for the sake of the company's IP, Tranh's personal projects have even less information than the professional projects. There is no information on how decisions were made, only the main components of the design.
 
+The reasoning in Keegan's portfolio is easy to follow. The reader can see where certain decisions are made and what logic is backing them up. However, the passages can be quite dense, and rely on long sentences where succinct and precise language would be more efficient.
+
 Professional Tone:
 Tranh's portfolio is entertaining to read and comes off as personable, but the language that he uses is not at the level of something that should be handed to a professional, let alone a superior. He writes as if he is speaking to a fellow student or colleague, not as if he is presenting to a board of professionals.
+
+The tone in Keegan's portfolio is high-level and conveys the understanding that they have on their projects. It is clear that there was a lot of thought put into the content on the pages, as well as the words that are being used to describe the projects. 
 
 ## Task B: Product Analysis
 
