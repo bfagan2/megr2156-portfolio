@@ -6,7 +6,7 @@ The objective of this exercise is to put into practice the theoretical understan
 
 ## Analyze
 
-# Review
+### Review
 
 To start, I reviewed basics of truss systems from Statics. I specifically looked at exam questions and how the equations to solve for internal forces were written. Using what was learned in Solids, I understand how stress is related to area of members (Stress = Force/Area) and that each pin is in single shear. We were given the following diagram to design our truss system around.
 
