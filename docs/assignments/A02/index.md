@@ -37,11 +37,13 @@ To start, I reviewed basics of truss systems from Statics. I specifically looked
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
 
-This design was chosen to minimize the number of members, while also keeping only triangles in the geometry. This made the calculations simpler to do and isolated each pin reaction force into x- and y- components. Additionally, each pin has the minimum number of connections, as to reduce shear stress on the pins. 
+This design was chosen to minimize the number of members, while also keeping only triangles in the geometry. This made the calculations simpler to do and isolated each pin reaction force into x- and y- components. Additionally, each pin has the minimum number of connections, as to reduce shear stress on the pins. In keeping with what was taught and learned in statics, I used phantom right triangles to analyze the angles of the pin reaction and member internal forces. My main goal was to minimize the number of members so as to not add additional stress and weight to the overall system and to reduce stress on the pins.
 
 ## Communicate
 
 After settling on the following design, I proceeded with the following calculations to determine internal forces, pin reactions, stress, shear stress, and mass.
+
+### Images
 
 <img width="1500" height="2000" alt="pg 1/4" src="https://github.com/user-attachments/assets/370974ab-213d-428c-810c-a530c2f1bb43" />
 
@@ -53,5 +55,11 @@ After settling on the following design, I proceeded with the following calculati
 
 After creating the following CAD model in Solidworks, I realized I miscalculated the mass. The error came from my minimum pin area calculation and was capitulated in the mass calculation. I calculated the mass to be 146 kg, when Solidworks reported the mass as 6.77 kg. The Solidworks mass is the accurate report, as it makes sense with the areas of the members being around 2 cm^2.
 
+### CAD Link
+
 Click [here]([url](https://github.com/bfagan2/megr2156-portfolio/blob/f7f66df16d484ff9578c784e6d9d686691931316/SoDesign%20A2.pdf)) to download the CAD pdf file.
+
+### Time Spent
+
+I spent a total of 5 hours on this assignment. Most of which was dedicated to review and hand calculations.
 
