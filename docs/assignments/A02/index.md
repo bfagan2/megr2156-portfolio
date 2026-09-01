@@ -57,7 +57,7 @@ After creating the following CAD model in Solidworks, I realized I miscalculated
 
 ### CAD Link
 
-Click [here]([url](https://github.com/bfagan2/megr2156-portfolio/blob/f7f66df16d484ff9578c784e6d9d686691931316/SoDesign%20A2.pdf)) to download the CAD pdf file.
+Click [here]([url](https://github.com/bfagan2/megr2156-portfolio/blob/87442cddbd75ae471c35708bb25abdf87f71e4d9/SoDesign%20A2.SLDPRT)) to download the CAD pdf file.
 
 ### Time Spent
 
