@@ -51,4 +51,5 @@ After settling on the following design, I proceeded with the following calculati
 
 <img width="1500" height="2000" alt="pg 4/4" src="https://github.com/user-attachments/assets/3615279d-dda4-465f-ae76-6d3e89d0e87a" />
 
+After creating the following CAD model in Solidworks, I realized I miscalculated the mass. The error came from my minimum pin area calculation and was capitulated in the mass calculation. I calculated the mass to be 146 kg, when Solidworks reported the mass as 6.77 kg. The Solidworks mass is the accurate report, as it makes sense with the areas of the members being around 2 cm^2.
 
