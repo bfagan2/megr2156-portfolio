@@ -11,6 +11,7 @@ Our design constraints outline that the beam should be made of Aluminum, for whi
 
 
 ### First Iteration
+
 For the first iteration I am defining the following values:
 
 - diameter (d) = 2 cm
@@ -25,3 +26,14 @@ The chosen diameter will yield a cross sectional area A as described by this equ
 Therefore A for this iteration is equal to:
 
 <p align="center"> A = 0.000315 m<sup>2</sup>
+
+### Second Iteration
+
+For the second iteration I am defining the following values:
+
+- d = 1 cm
+- E = 10 x 10<sup>6</sup> psi
+
+Therefore A for this iteration is equal to:
+
+<p align="center"> A = 0.00007854 m<sup>2</sup>
