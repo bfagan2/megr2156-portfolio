@@ -26,7 +26,7 @@ The chosen diameter will yield a cross sectional area A as described by this equ
 Therefore A for this iteration is equal to:
 
 <p align="center"> A = 0.000315 m<sup>2</sup>
-
+  
 
 ### Second Iteration
 
