@@ -27,6 +27,7 @@ Therefore A for this iteration is equal to:
 
 <p align="center"> A = 0.000315 m<sup>2</sup>
 
+
 ### Second Iteration
 
 For the second iteration I am defining the following values:
