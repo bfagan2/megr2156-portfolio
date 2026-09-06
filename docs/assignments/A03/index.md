@@ -33,7 +33,7 @@ Therefore A for this iteration is equal to:
 For the second iteration I am defining the following values:
 
 - d = 1 cm
-- E = 10 x 10<sup>6</sup> psi
+- E = 8.5 x 10<sup>6</sup> psi
 
 Using the same equation described above to calculate the cross sectional area:
 
