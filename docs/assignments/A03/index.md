@@ -39,6 +39,8 @@ The stress map details that the maximum stress experienced by the bar at these p
 
 Imagining a substantial hole in the left side of the bar would put the surrounding area under an increased stress of around 2 times what the bar is already experiencing at that point. In this case the max stress would be 8.220e+00, which is well within the max stress allowance for the bar.
 
+Click [here](https://github.com/bfagan2/megr2156-portfolio/blob/415b85f64b08ee2f0165ca928609cfbb4e447b4d/SoDesign%20A3.zip) to download the CAD files.
+
 ### Lessons Learned
 
 I have worked in Solidworks before, however I have only done FEA and simulations in Siemens NX. Using the Solidworks UI took some time to get used to, and the tools are mostly the same. The total time spent on this assignment was approximately 3 hours.
