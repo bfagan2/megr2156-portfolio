@@ -12,8 +12,13 @@ Feature 1 was decided to have a height of 5 cm and a length of 10 cm.
 
 The formula used with respect to stress is:
 
-<p align (center) σ = Mc/I </p>
-  From the calculations with respect to stress, the base was found to be a minimum of .876 cm. From the calculations with respect to strain, the base was found to be a minimum of .00965 cm. These values include the safety factor of 3 and have been rounded up. The final base dimensions are b = 1 cm, h = 5 cm, L = 10 cm.
+<p align="center"> σ = Mc/I </p>
+
+Where:
+
+<p align="center"> I=
+
+From the calculations with respect to stress, the base was found to be a minimum of .876 cm. From the calculations with respect to strain, the base was found to be a minimum of .00965 cm. These values include the safety factor of 3 and have been rounded up. The final base dimensions are b = 1 cm, h = 5 cm, L = 10 cm.
 
 ## Decide
 
