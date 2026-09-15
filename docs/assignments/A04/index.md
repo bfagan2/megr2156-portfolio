@@ -43,3 +43,7 @@ Base dimensions were rounded up to accommodate for the size of the bolts needed 
 ### CAD Model
 
 Click [here](https://github.com/bfagan2/megr2156-portfolio/blob/595e7ef50b770f390088bd642f76b3d7c9bbf41b/2156%20A4.SLDPRT) to download the CAD file for this assignment.
+
+### Reflection
+
+This assignment took 4 hours to complete. The hand calculations were completed in 2 hours. I have learned that documentation takes the longest to complete as well as the CAD modeling. In the future, I will try to document the process as I move through it instead of waiting until the end. This will help catch any mistakes as I go as well.
