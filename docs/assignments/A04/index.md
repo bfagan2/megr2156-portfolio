@@ -42,4 +42,4 @@ Base dimensions were rounded up to accommodate for the size of the bolts needed 
 
 ### CAD Model
 
-Click [here]() to download the CAD file for this assignment.
+Click [here](https://github.com/bfagan2/megr2156-portfolio/blob/595e7ef50b770f390088bd642f76b3d7c9bbf41b/2156%20A4.SLDPRT) to download the CAD file for this assignment.
