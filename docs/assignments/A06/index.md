@@ -14,8 +14,10 @@ Click here to download the parametric model.
 
 The following equation drove many of the dimensions of the bracket design:
 
-<p align = center δ = SF*W*L<sup>3</sup>/8*E*I</p>
+<p align = "center"> δ = SF*W*L<sup>3</sup>/8*E*I</p>
 
 Where:
 
-<p align = center L = b*h<sup>3</sup>/12</p>
+<p align = "center"> L = b*h<sup>3</sup>/12</p>
+
+This is the typical deflection formula including a safety factor. This specific equation was used to drive the diameter dimension of Feature A, which then cascaded into the depths and lengths of the other features downstream. For instance, the diameter of Feature A was found to be a minimum of 2.703 in, which in turn constrains the width of Feature B to be the same dimensiom
