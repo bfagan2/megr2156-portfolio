@@ -20,4 +20,6 @@ Where:
 
 <p align = "center"> L = b*h<sup>3</sup>/12</p>
 
-This is the typical deflection formula including a safety factor. This specific equation was used to drive the diameter dimension of Feature A, which then cascaded into the depths and lengths of the other features downstream. For instance, the diameter of Feature A was found to be a minimum of 2.703 in, which in turn constrains the width of Feature B to be the same dimensiom
+This is the typical deflection formula including a safety factor. This specific equation was used to drive the diameter dimension of Feature A, which then cascaded into the depths and lengths of the other features downstream. For instance, the diameter of Feature A was found to be a minimum of 2.703 in, which in turn constrains the width of Feature B to be the same dimension. This created constraints for each following feature as the mating and geometric constraints of the design required them to have coincident or even equal points.
+
+There is a smaller tolerance class within the T-beam cutout to allow for a close sliding fit when the bracket is in use. Decreased space between the backet and the T-beam will decrease slippage during use and yet still be able to be actuated along the beam.
