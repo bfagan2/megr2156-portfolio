@@ -10,7 +10,8 @@ Click here to download the parametric model.
 
 ### Drawings
 
-The drawing shown is in ASME third-angle projection.
+The drawing shown is in ASME standard third-angle projection. The tolerance block for general tolerances is as listed in the assignment description.
+
 ### Reflections
 
 The following equation drove many of the dimensions of the bracket design:
