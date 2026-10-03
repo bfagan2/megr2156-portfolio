@@ -6,7 +6,7 @@ Using the design parameters found in the last assignment (A5), develop a paramet
 
 ### Parametric Model
 
-Click here to download the parametric model.
+Click [here]([url](https://github.com/bfagan2/megr2156-portfolio/blob/93bdadeca18e7b200da92c04e18e167a2c8cf02b/A6.SLDPRT)) to download the parametric model.
 
 The following image shows the dimensions of the model and the parameters used to define them.
 
