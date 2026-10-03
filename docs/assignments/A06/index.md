@@ -8,9 +8,20 @@ Using the design parameters found in the last assignment (A5), develop a paramet
 
 Click here to download the parametric model.
 
+The following image shows the dimensions of the model and the parameters used to define them.
+
+<img width="918" height="363" alt="Equations" src="https://github.com/user-attachments/assets/1e2cba40-b79e-450e-98b3-f832a37138bf" />
+
+
 ### Drawings
 
 The drawing shown is in ASME standard third-angle projection. The tolerance block for general tolerances is as listed in the assignment description.
+
+<img width="902" height="641" alt="Screenshot 2026-10-02 204106" src="https://github.com/user-attachments/assets/9aed99c1-e8d9-4b4a-8c3e-762155d8f608" />
+
+The dimensions are placed on each drawing view where they can be represented the best.
+
+
 
 ### Reflections
 
