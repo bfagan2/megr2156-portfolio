@@ -7,7 +7,7 @@ The objective of this assignment is to use the Finite Element Method of analysis
 ## Analyze
 
 My analysis of the design is performed in two loops. The first loop illustrates a change in the model geometry. Each change in geometry will be in response to the results of the second loop: FEA. Each FEA loop will be run three times, using different size meshes, and will be checked for convergence. Each loop will be run no more than three times. The first loops will be documented in a table like the following: 
-
+https://github.com/bfagan2/megr2156-portfolio/blob/613918c1ffb7d59ad520cd1e1e4d4ee6c8490362/Outer%20Loop%20Blank%20A7.png
 
 The second loop will be documented on the following table and checked for convergence:
 
