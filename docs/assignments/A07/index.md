@@ -20,7 +20,7 @@ Iteration 1 uses the initial geometry of the model after A6, therefore there are
 
 The constraints shown in the following picture are used across every iteration, with the pink arrows representing a force of 600 N and the green arrows representing a constrained face.
 
-Screenshot 2026-10-26 174848.jpg
+[Screenshot 2026-10-26 174848.jpg](https://github.com/bfagan2/megr2156-portfolio/blob/33a290570b280f15be73bac8dfb52c0efe2fdc5d/Screenshot%202026-10-26%20174848.jpg)
 ## Decide
 
 
