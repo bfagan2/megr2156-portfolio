@@ -4,7 +4,8 @@
 
 The objective of this assignment is to use the Finite Element Method of analysis to perform studies on our previously built bracket design using CAD. Analyses in this assignment will help the student understand the optimization steps of the engineering design process. We will perform analyses on stress and deflection, as well as change the driving geometry of the model to optimize the design.
 
-Click [here](url)
+Click [here](<img width="1521" height="753" alt="A7" src="https://github.com/user-attachments/assets/39798905-74e6-4983-b6e2-7014e6a2134a" />) to download the CAD model.
+
 
 ## Analyze
 
