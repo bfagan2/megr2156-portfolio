@@ -21,9 +21,11 @@ The second loop will be documented on the following table and checked for conver
 Iteration 1 uses the initial geometry of the model after A6, therefore there are no geometry changes to commit. 
 
 The constraints shown in the following picture are used across every iteration, with the pink arrows representing a force of 600 N and the green arrows representing a constrained face.
+
 <img width="403" height="266" alt="Screenshot 2026-10-26 174848" src="https://github.com/user-attachments/assets/f93b8fc3-624a-4561-b4fa-c05127bd2c3f" />
 
-The FEA study of Iteration 1 yielded the following results: 
+The FEA study of Iteration 1 yielded the following results:
+
 <img width="319" height="65" alt="Screenshot 2026-10-26 182733" src="https://github.com/user-attachments/assets/4dbd0b68-2dd2-474d-8b17-bff2e0ad14c8" />
 
 Adding a finer mesh increased the calculated stress as well as strain, and decreased the safety factor, as expected. Based on these values, I determined that the connection between the strap support and its connector had the highest stress concentration.
@@ -31,6 +33,7 @@ Adding a finer mesh increased the calculated stress as well as strain, and decre
 **Iteration 2:**
 
 Iteration 2 involved removing the stress concentration from the connection between the strap support and its connector. To eliminate this, I added a 0.05 inch fillet to the connection. After the analysis, the Factor of Safety went far down. This happened because I also decreased the diameter of the cylinder that holds the strap by a significant amount. The second iteration yielded the following results: 
+
 <img width="328" height="74" alt="Screenshot 2026-10-26 200123" src="https://github.com/user-attachments/assets/87572716-cb36-4b2f-a194-cfb8840ee325" />
 
 **Iteration 3:**
@@ -41,6 +44,7 @@ In iteration 3 I tried to increase the safety factor, mainly by increasing the w
 
 
 The final first loop table has the following data: 
+
 <img width="453" height="77" alt="Screenshot 2026-10-26 200846" src="https://github.com/user-attachments/assets/c3d68d75-bba2-4240-80da-9b3824be964b" />
 
 I noticed that the factor of safety fell significantly in each iteration, and the mass doubled with the increase in element size. Deflection also increased significantly due to the reduction in diameter of the cylinder. The maximum stress increased as well as a result of the reduction in diameter, however the fillets helped mitigate the damage.
