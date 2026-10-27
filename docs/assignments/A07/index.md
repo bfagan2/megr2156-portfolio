@@ -36,7 +36,15 @@ Iteration 2 involved removing the stress concentration from the connection betwe
 **Iteration 3:**
 
 In iteration 3 I tried to increase the safety factor, mainly by increasing the width of each of the elements on the top of the bracket. I noticed that it did increase the safety factor, however not as much as I would have liked. Given another iteration, I would increase the dimensions again until a safety factor of 4 was reached again. The third iteration yielded the following results: 
+
 <img width="326" height="70" alt="Screenshot 2026-10-26 200400" src="https://github.com/user-attachments/assets/744b6edf-67f4-4d05-8b02-1e3fd8aecc13" />
+
+
+The final first loop table has the following data: 
+<img width="453" height="77" alt="Screenshot 2026-10-26 200846" src="https://github.com/user-attachments/assets/c3d68d75-bba2-4240-80da-9b3824be964b" />
+
+I noticed that the factor of safety fell significantly in each iteration, and the mass doubled with the increase in element size. Deflection also increased significantly due to the reduction in diameter of the cylinder. The maximum stress increased as well as a result of the reduction in diameter, however the fillets helped mitigate the damage.
+
 
 
 ## Communicate
