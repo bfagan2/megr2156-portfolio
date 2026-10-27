@@ -53,6 +53,6 @@ I noticed that the factor of safety fell significantly in each iteration, and th
 
 ## Communicate
 
-**Reflection***
+**Reflection**
 
 This assignment helped me understand the optimization process for solid materials. In my experience, I had only been working on surfaces and hydraulic profiles, with no regard for the solid mechanics of each model. Any time spent in CAD, I consider to be valuable, so while this assignment fell in my realm of prior knowledge, I was able to refine my CAD skills and increase my speed and understanding. In total, this assignment took 3 hours to complete. Most was spent editing the model properties to optimize the design. 
