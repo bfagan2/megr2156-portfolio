@@ -57,7 +57,7 @@ The sketch of my gearbox housing design requires four bolts to hold together, on
 
 ### CAD Model
 
-Click  to download the CAD file.
+Click https://github.com/bfagan2/megr2156-portfolio/raw/refs/heads/main/A8.SLDPRT to download the CAD file.
 
 ## Lessons Learned
 
