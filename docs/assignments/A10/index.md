@@ -181,15 +181,89 @@ The frame was designed using the T-slot framing parts manufactured by McMaster-C
 
 <img width="622" height="747" alt="Screenshot 2026-11-16 155046" src="https://github.com/user-attachments/assets/b87e49af-cd50-427c-af82-bcd8a4b72fe4" />
 
+The final CAD assembly is shown below. All components are able to be edited individually if a parameter changes. The crosshead sits within the frame with a clearance of 5 mm on either side which compensates for small angles as well as removes the variable of friction against the inside of the frame. The base plate is able to be adjusted vertically, depending on the size of the sample being used. The heads of the lead screws, while not shown in the model, will be held in contact with the base plate using a threaded flange that is mounted via screws to the base plate.
 
+<img width="273" height="331" alt="Screenshot 2026-11-16 163810" src="https://github.com/user-attachments/assets/7d5dcd21-28c7-47f9-9e38-89cd9d5ab748" />
+
+### Time Spent
+
+In total I spent over 7 hours on this part of the assignment. I was responsible for all CAD modeling which took a very long time as well as tabulating the costs.
 ### Tabulating Costs
 
+The following table details each part used in the assembly and its associated cost. All parts are sourced from McMaster-Carr, and all part numbers are unique.
 
-
-<img width="1688" height="398" alt="Screenshot 2026-11-16 160404" src="https://github.com/user-attachments/assets/3670ca6f-b0f4-47aa-944d-d8b5a1158f32" />
-
-## Decide
-_Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
-
-## Communicate
+<table>
+  <tr>
+    <th>Item Number</th>
+    <th>Quantity</th>
+    <th>Name</th>
+    <th>Price Per Unit</th>
+    <th>Cost</th>
+    <th>Purchase Link</th>
+  </tr>
+  <tr>
+    <td>95072A109</td>
+    <td>2</td>
+    <td>Acme Externally Threaded Nut</td>
+    <td>$37.61</td>
+    <td>$75.22</td>
+    <td>[Link](https://www.mcmaster.com/95072A109/)</td>
+  </tr>
+  <tr>
+    <td>95082A642</td>
+    <td>2</td>
+    <td>Precision Acme Flange 1215 Carbon Steel, 15/16"-16 Thread Size</td>
+    <td>$53.18</td>
+    <td>$106.36</td>
+    <td>[Link](https://www.mcmaster.com/95082A642)</td>
+  </tr>
+  <tr>
+    <td>5537T195</td>
+    <td>2</td>
+    <td>T-Slotted Framing Closed Gusset Corner Bracket, 3" Long</td>
+    <td>$22.04</td>
+    <td>$44.08</td>
+    <td>[Link](https://www.mcmaster.com/5537T195/)</td>
+  </tr>
+  <tr>
+    <td>5537T112</td>
+    <td>1</td>
+    <td>T-Slotted Framing Double Six Slot Rail, Silver, 80 mm High x 40 mm Wide, Solid</td>
+    <td>$51.82</td>
+    <td>$51.82</td>
+    <td>[Link](https://www.mcmaster.com/5537T112/)</td>
+  </tr>
+  <tr>
+    <td>5537T108</td>
+    <td>2</td>
+    <td>T-Slotted Framing Double 6-Slot Rail, Silver, 80mm High, 40mm Wide, Solid 2' Long</td>
+    <td>$51.82</td>
+    <td>$51.82</td>
+    <td>[Link](https://www.mcmaster.com/5537T112-5537T108/)</td>
+  </tr>
+  <tr>
+    <td>5537T914</td>
+    <td>2</td>
+    <td>T-Slotted Framing Double 6-Slot Rail, Silver, 80 mm High x 40 mm Wide, Solid</td>
+    <td>$2.52</td>
+    <td>$5.04</td>
+    <td>[Link](https://www.mcmaster.com/5537T914/)</td>
+  </tr>
+  <tr>
+    <td>5537T108</td>
+    <td>1</td>
+    <td>T-Slotted Framing Double 6-Slot Rail, Silver, 80mm High, 40mm Wide, Solid 2' Long</td>
+    <td>$51.82</td>
+    <td>$51.82</td>
+    <td>[Link](https://www.mcmaster.com/5537T112-5537T108/)</td>
+  </tr>
+  <tr>
+    <td>93410A112</td>
+    <td>2</td>
+    <td>Alloy Steel Acme Lead Screw Right Hand, 1/2"-10 Thread Size, 2 Feet Long</td>
+    <td>$39.17</td>
+    <td>$78.34</td>
+    <td>[Link](https://www.mcmaster.com/93410A112/)</td>
+  </tr>
+</table>
 
