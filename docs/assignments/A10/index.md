@@ -145,18 +145,30 @@ Time Spent: 2 days
 
 ### Nut and Flange 
 #### Objective
-The objective of the nut and flange section is to verify the nuts internal threads support the applied load with a minimum safety factor of 4, then find the compatible flange. 
+  The objective of the nut and flange section is to verify the nuts internal threads support the applied load with a minimum safety factor of 4, then find the compatible flange. 
 
-#### Knowns and Unknowns
+#### Analyze
+The selected components are McMaster bronze nut 95072A109 and steel flange 95082A642. These were found on Rotons website, then their equivalent were found on McMaster since Roton did not have download links. The nut has a 1/2"-10 Acme internal thread for the lead screw and a 15/16"-16 external mounting thread for the flange. 
+
 <img width="485" height="345" alt="Screenshot 2026-11-16 180817" src="https://github.com/user-attachments/assets/00a02475-e000-4d9e-b5fe-a01f53a9a729" />
 <img width="497" height="358" alt="Screenshot 2026-11-16 173739" src="https://github.com/user-attachments/assets/8097f0a2-5606-4576-acf4-9b12670751e7" />
 
+The FBD above shows how one isolated nut receives half of Fmax. The screw's threads transfers the load to the nut, and the nuts external threads transfer the load to the flange. 
 
-### Decide
-_Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
+Using the stated material strength and engagement assumptions, the calculated thread bending stress was 10.99  MPa, below the allowable 31.25 MPa. the resulting safety factor of 11.37 greatly exceeds the required value of 4. The accuracy of that actual safety factor is conditional on the assumed effective engagement. The strength of the mounting bolts and external threads are assumed sufficient. 
 
-### Communicate
+### Crosshead
+#### Objective
+ The crosshead sections main objective is to select a suitable crosshead material and dimensions, then verify and change the selected material and dimensions to minimize deflection to less than 0.1mm while supporting the maximum load with a safety factor of 4. 
 
+#### Analyze 
+  The crosshead was modeled as a simply supported beam carrying a 2,000 N center load. The selected material was 6061-T6 aluminum, with a rectangular cross section 80 mm wide by 30 mm vertical by 400 mm long. The holes for the leadscrews were placed 50mm from the edges and 300 mm apart giving sufficient strength and resistance to deformation all around it. 
+  
+<img width="508" height="397" alt="Screenshot 2026-11-16 173755" src="https://github.com/user-attachments/assets/6fb2cc1b-12b5-4923-bc5e-1dcee2a365a0" />
+<img width="490" height="392" alt="Screenshot 2026-11-16 180829" src="https://github.com/user-attachments/assets/9832e561-3b30-4bd4-8f02-09443e39a4b0" />
+<img width="510" height="198" alt="Screenshot 2026-11-16 173804" src="https://github.com/user-attachments/assets/7d2c33fa-51c6-429f-a342-3acdca8525a1" />
+
+The maximum bending stress of 12.5 MPa is below the allowable 69 Mpa. the calculated safety factor of 22.08 exceeds the required value of 4. The selected 30mm height also exceeds the strength based minimum of 12.77 mm. This is due to the deflection value being much larger than the required minimum when set to 12.77mm. Using 30 mm as the height, the deflection was 0.091 mm, just under the allowed 0.1 mm. The minimum height allowed for a passing deflection was 29.04 mm, to be safe that was rounded to 30 mm.
 
 
 
