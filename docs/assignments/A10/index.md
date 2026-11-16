@@ -164,9 +164,29 @@ _Reference your concept selection (Pugh matrix) here. How does this design follo
 
 ## Objective
 
+The main CAD objectives were to create an assembly of the theoretical tensile tester using direct part downloads and relevant assembly constraints. Most of the parts in the assembly were downloaded from McMaster-Carr using the Solidworks 2025 add-in. Below is the list of parts used in the assembly.
+
+<img width="987" height="592" alt="Screenshot 2026-11-16 155539" src="https://github.com/user-attachments/assets/2c469700-0dd6-4ed1-814f-b6e337f38606" />
+
 
 ## Analyze
 
+### Part 3: CAD Assembly
+
+The crosshead was designed as a separate part using dimensions from Part 2. The final dimensions of the crosshead were 400 x 80 x 30 mm. I added round fillets on the edges to improve strength and minimize damage. The holes for the lead screws are 300 mm apart, symmetrically from the crosshead center line.
+
+<img width="510" height="763" alt="Screenshot 2026-11-16 155251" src="https://github.com/user-attachments/assets/478b9fd2-b2e1-4e73-9000-171e155587af" />
+
+The frame was designed using the T-slot framing parts manufactured by McMaster-Carr. These rails have standard sizing and fit together with no interference. The set of parts is designed together to create the frame as one whole piece. The edge connectors are enclosed gussets which fit into each rail using a thumb screw that turns to secure itself by 90 degrees.
+
+<img width="622" height="747" alt="Screenshot 2026-11-16 155046" src="https://github.com/user-attachments/assets/b87e49af-cd50-427c-af82-bcd8a4b72fe4" />
+
+
+### Tabulating Costs
+
+
+
+<img width="1688" height="398" alt="Screenshot 2026-11-16 160404" src="https://github.com/user-attachments/assets/3670ca6f-b0f4-47aa-944d-d8b5a1158f32" />
 
 ## Decide
 _Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
