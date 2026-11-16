@@ -143,17 +143,19 @@ Time Spent: 2 days
 
 ## Team member 2: Peirce Brown
 
+### Nut and Flange 
+#### Objective
+The objective of the nut and flange section is to verify the nuts internal threads support the applied load with a minimum safety factor of 4, then find the compatible flange. 
 
-## Objective
+#### Knowns and Unknowns
+<img width="485" height="345" alt="Screenshot 2026-11-16 180817" src="https://github.com/user-attachments/assets/00a02475-e000-4d9e-b5fe-a01f53a9a729" />
+<img width="497" height="358" alt="Screenshot 2026-11-16 173739" src="https://github.com/user-attachments/assets/8097f0a2-5606-4576-acf4-9b12670751e7" />
 
 
-## Analyze
-
-
-## Decide
+### Decide
 _Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
 
-## Communicate
+### Communicate
 
 
 
