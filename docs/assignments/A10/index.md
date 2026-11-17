@@ -192,7 +192,7 @@ The main CAD objectives were to create an assembly of the theoretical tensile te
 
 ### Part 3: CAD Assembly
 
-Click [here]([A10 (2).zip](https://github.com/user-attachments/files/34944473/A10.2.zip)) to download the assembly .zip file.
+Click ([A10 (2).zip](https://github.com/user-attachments/files/34944473/A10.2.zip)) to download the assembly .zip file.
 
 The crosshead was designed as a separate part using dimensions from Part 2. The final dimensions of the crosshead were 400 x 80 x 30 mm. I added round fillets on the edges to improve strength and minimize damage. The holes for the lead screws are 300 mm apart, symmetrically from the crosshead center line.
 
