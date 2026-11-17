@@ -199,13 +199,19 @@ The main CAD objectives were to create an assembly of the theoretical tensile te
 
 Click ([A10 (2).zip](https://github.com/user-attachments/files/34944473/A10.2.zip)) to download the assembly .zip file.
 
-The crosshead was designed as a separate part using dimensions from Part 2. The final dimensions of the crosshead were 400 x 80 x 30 mm. I added round fillets on the edges to improve strength and minimize damage. The holes for the lead screws are 300 mm apart, symmetrically from the crosshead center line.
+#### Crosshead
+
+The crosshead was designed as a separate part using dimensions from Part 2. The final dimensions of the crosshead were 400 x 80 x 30 mm. I added round fillets on the edges to improve strength and minimize damage. The holes for the lead screws are 300 mm apart, symmetrically from the crosshead center line. The nut and flange sit on the bottom of the crosshead, with the flange fastening via the interior threads onto the lead screw. The nut has threads on the inside and outside diameters, which allows it to fit into the bottom of the flange and transmit linear motion to the crosshead.
 
 <img width="510" height="763" alt="Screenshot 2026-11-16 155251" src="https://github.com/user-attachments/assets/478b9fd2-b2e1-4e73-9000-171e155587af" />
+
+#### Frame
 
 The frame was designed using the T-slot framing parts manufactured by McMaster-Carr. These rails have standard sizing and fit together with no interference. The set of parts is designed together to create the frame as one whole piece. The edge connectors are enclosed gussets which fit into each rail using a thumb screw that turns to secure itself by 90 degrees.
 
 <img width="622" height="747" alt="Screenshot 2026-11-16 155046" src="https://github.com/user-attachments/assets/b87e49af-cd50-427c-af82-bcd8a4b72fe4" />
+
+#### Full Assembly
 
 The final CAD assembly is shown below. All components are able to be edited individually if a parameter changes. The crosshead sits within the frame with a clearance of 5 mm on either side which compensates for small angles as well as removes the variable of friction against the inside of the frame. The base plate is able to be adjusted vertically, depending on the size of the sample being used. The heads of the lead screws, while not shown in the model, will be held in contact with the base plate using a threaded flange that is mounted via screws to the base plate.
 
