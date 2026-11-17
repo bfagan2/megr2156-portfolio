@@ -206,7 +206,9 @@ The final CAD assembly is shown below. All components are able to be edited indi
 
 <img width="273" height="331" alt="Screenshot 2026-11-16 163810" src="https://github.com/user-attachments/assets/7d5dcd21-28c7-47f9-9e38-89cd9d5ab748" />
 
-### Time Spent
+### Lessons Learned
+
+Throughout this assignment I was able to practice assemblies in Solidworks. I learned how to edit downloaded parts and modify them to fit the design, and I learned a lot about screw standards as well. Understanding how the nut, flange, and screw were mated was very important in creating the assembly. 
 
 In total I spent over 7 hours on this part of the assignment. I was responsible for all CAD modeling and multiview sketches which took a very long time as well as tabulating the costs.
 
