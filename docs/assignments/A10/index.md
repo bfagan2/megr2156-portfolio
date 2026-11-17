@@ -139,7 +139,7 @@ Time Spent: 2 days
 
 
 
-## Team member 2: Peirce Brown
+## Team member 2: Pierce Brown
 
 ### Nut and Flange 
 #### Objective
@@ -175,6 +175,11 @@ I spent a total of 2 days working on my section.
 
 ## Team member 3: Bridget Fagan
 
+### Multiview Sketches
+
+Below are the multiview sketches for the crosshead assembly. The flange and nut are aligned along the lead screw and are situated underneath the crosshead. As the motor eventually turns the lead screw, the nut and flange will force the crosshead up along the lead screw, applying force to the sample.
+
+<img width="1512" height="2016" alt="image0 (4)" src="https://github.com/user-attachments/assets/8308d183-34a9-4280-8ab2-bd3fbca6531b" />
 
 ## Objective
 
@@ -187,7 +192,7 @@ The main CAD objectives were to create an assembly of the theoretical tensile te
 
 ### Part 3: CAD Assembly
 
-Click [here]() to download the assembly .zip file.
+Click [here]([A10 (2).zip](https://github.com/user-attachments/files/34944473/A10.2.zip)) to download the assembly .zip file.
 
 The crosshead was designed as a separate part using dimensions from Part 2. The final dimensions of the crosshead were 400 x 80 x 30 mm. I added round fillets on the edges to improve strength and minimize damage. The holes for the lead screws are 300 mm apart, symmetrically from the crosshead center line.
 
@@ -203,7 +208,8 @@ The final CAD assembly is shown below. All components are able to be edited indi
 
 ### Time Spent
 
-In total I spent over 7 hours on this part of the assignment. I was responsible for all CAD modeling which took a very long time as well as tabulating the costs.
+In total I spent over 7 hours on this part of the assignment. I was responsible for all CAD modeling and multiview sketches which took a very long time as well as tabulating the costs.
+
 ### Tabulating Costs
 
 The following table details each part used in the assembly and its associated cost. All parts are sourced from McMaster-Carr, and all part numbers are unique.
