@@ -134,9 +134,14 @@ The selected screw has a minor diameter greater than the preliminary calculated 
 
 The use of two identical lead screws allows the tensile load to be distributed between the screws while maintaining synchronized crosshead movement.
 
+#### Lessons Learned 
 
-Time Spent: 2 days
+Throughout this assignment, I learned how to select a lead screw based on the mechanical requirements of a tensile testing system. I learned how to determine the minimum screw diameter using axial stress and a factor of safety, calculate the rotational speed needed to achieve a specific linear speed, and determine the torque required to apply the desired tensile force.
 
+One of the biggest challenges was finding the correct information in Machinery's Handbook and the manufacturer's catalogs. This helped me understand the importance of using reliable references and checking dimensions, material properties, and friction when selecting mechanical components.
+
+
+**Time Spent: 2 days**
 
 
 ## Team member 2: Pierce Brown
