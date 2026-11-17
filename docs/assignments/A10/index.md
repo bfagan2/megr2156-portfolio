@@ -139,8 +139,6 @@ Time Spent: 2 days
 
 
 
-
-
 ## Team member 2: Peirce Brown
 
 ### Nut and Flange 
@@ -170,7 +168,10 @@ Using the stated material strength and engagement assumptions, the calculated th
 
 The maximum bending stress of 12.5 MPa is below the allowable 69 Mpa. the calculated safety factor of 22.08 exceeds the required value of 4. Bending strength requires a minimum thickness of 12.77 mm, while deflection requires 29.04 mm. Deflection therefor controls the design, and a thickness of 30 mm was selected. This gives a bending stress of 12.5 MPa, a safety factor of 22.08, and a maximum deflection of 0.09071 mm
 
+### Lessons Learned
+From this assignment I learned how to check the bending strength of a nut's internal threads from the lectures model. I also learned that a crosshead can meet the strength requirement while exceeding the deflection limit. Initially I set the thickness to 25 mm which passed the bending-strength check, but failed at the deflection check. Increasing the thickness to 30 mm reduced the deflection to a passable amount. Deflection therefor controlled the selected thickness in this assignment. Building the calculations in Excel allowed me to update the dimensions and automatically recalculate the results. 
 
+I spent a total of 2 days working on my section.
 
 ## Team member 3: Bridget Fagan
 
