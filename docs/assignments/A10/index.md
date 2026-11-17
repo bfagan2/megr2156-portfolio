@@ -236,7 +236,7 @@ The following table details each part used in the assembly and its associated co
     <td>Acme Externally Threaded Nut</td>
     <td>$37.61</td>
     <td>$75.22</td>
-    <td>[Link](https://www.mcmaster.com/95072A109/)</td>
+    <td> [Link](https://www.mcmaster.com/95072A109/) </td>
   </tr>
   <tr>
     <td>95082A642</td>
@@ -244,7 +244,7 @@ The following table details each part used in the assembly and its associated co
     <td>Precision Acme Flange 1215 Carbon Steel, 15/16"-16 Thread Size</td>
     <td>$53.18</td>
     <td>$106.36</td>
-    <td>[Link](https://www.mcmaster.com/95082A642)</td>
+    <td> [Link](https://www.mcmaster.com/95082A642) </td>
   </tr>
   <tr>
     <td>5537T195</td>
@@ -252,7 +252,7 @@ The following table details each part used in the assembly and its associated co
     <td>T-Slotted Framing Closed Gusset Corner Bracket, 3" Long</td>
     <td>$22.04</td>
     <td>$44.08</td>
-    <td>[Link](https://www.mcmaster.com/5537T195/)</td>
+    <td> [Link](https://www.mcmaster.com/5537T195/) </td>
   </tr>
   <tr>
     <td>5537T112</td>
@@ -260,7 +260,7 @@ The following table details each part used in the assembly and its associated co
     <td>T-Slotted Framing Double Six Slot Rail, Silver, 80 mm High x 40 mm Wide, Solid</td>
     <td>$51.82</td>
     <td>$51.82</td>
-    <td>[Link](https://www.mcmaster.com/5537T112/)</td>
+    <td> [Link](https://www.mcmaster.com/5537T112/) </td>
   </tr>
   <tr>
     <td>5537T108</td>
@@ -268,7 +268,7 @@ The following table details each part used in the assembly and its associated co
     <td>T-Slotted Framing Double 6-Slot Rail, Silver, 80mm High, 40mm Wide, Solid 2' Long</td>
     <td>$51.82</td>
     <td>$51.82</td>
-    <td>[Link](https://www.mcmaster.com/5537T112-5537T108/)</td>
+    <td> [Link](https://www.mcmaster.com/5537T112-5537T108/) </td>
   </tr>
   <tr>
     <td>5537T914</td>
@@ -276,7 +276,7 @@ The following table details each part used in the assembly and its associated co
     <td>T-Slotted Framing Double 6-Slot Rail, Silver, 80 mm High x 40 mm Wide, Solid</td>
     <td>$2.52</td>
     <td>$5.04</td>
-    <td>[Link](https://www.mcmaster.com/5537T914/)</td>
+    <td> [Link](https://www.mcmaster.com/5537T914/) </td>
   </tr>
   <tr>
     <td>5537T108</td>
@@ -284,7 +284,7 @@ The following table details each part used in the assembly and its associated co
     <td>T-Slotted Framing Double 6-Slot Rail, Silver, 80mm High, 40mm Wide, Solid 2' Long</td>
     <td>$51.82</td>
     <td>$51.82</td>
-    <td>[Link](https://www.mcmaster.com/5537T112-5537T108/)</td>
+    <td> [Link](https://www.mcmaster.com/5537T112-5537T108/) </td>
   </tr>
   <tr>
     <td>93410A112</td>
@@ -292,7 +292,7 @@ The following table details each part used in the assembly and its associated co
     <td>Alloy Steel Acme Lead Screw Right Hand, 1/2"-10 Thread Size, 2 Feet Long</td>
     <td>$39.17</td>
     <td>$78.34</td>
-    <td>[Link](https://www.mcmaster.com/93410A112/)</td>
+    <td> [Link](https://www.mcmaster.com/93410A112/) </td>
   </tr>
 </table>
 
