@@ -2,16 +2,19 @@
 
 ## Member 1: Pierce Brown
 
-## Objective
+### Objective
 
+The objective of part 1 was to select a gear-motor for each lead screw using torque and speed requirements from the previous assignment, A10. Document the motor's rated output torque, speed, efficiency, voltage, current, and mounting. Use the motor's torque-speed curve to verify the motors can handle the 2kN total test load across the 1-50mm/min speed range with the required safety factor of 4. 
 
-## Analyze
+### Part 1 - Motor Selection and Attachments
 
+<img width="955" height="438" alt="image" src="https://github.com/user-attachments/assets/6ca56df2-92ea-48b4-9b4c-9862d3f5ea56" />
 
-## Decide
-_Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
+The McMaster-Carr 4855N17 gear motor is listed as base mounted. It has a 1/2 ich diameter by 1 inch long keyed output shaft. The reference drawing also shows four #10-32 face holes on a 2.645 by 2.645 inch pattern.
 
-## Communicate
+<img width="748" height="567" alt="image" src="https://github.com/user-attachments/assets/dd9c7e8f-f04f-4140-8896-dbf6662e0823" />
+<img width="751" height="574" alt="image" src="https://github.com/user-attachments/assets/948478c9-c1e8-4681-bbd2-a9b42f47f1f5" />
+
 
 
 ## Member 2: Rama Hamid
