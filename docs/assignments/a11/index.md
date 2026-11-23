@@ -26,7 +26,7 @@ Design a mounting bearing that supports the lower end of the lead screw while al
 #### Analyze 
 
 
-The proposed mount is 80 mm long by 40 mm wide by 15.88 mm thick, with one mount per leadscrew. The long side runs along the bottom rail. The mounts bore is centered 40mm from the short end and 20 mm from the long side for alignment with the lead screw. Each block used two M8 bolts with hole centers 15mm from the respective ends and 20mm from the same long edge. The mounting holes are 2 x 9.00-9.22 mm through for normal M8 clearance. The proposed 15.88 mm (0.624 in) thickness provides 0.500 in of nominal screw engagement and leaves the screw tip 0.125 in short of the bottom face. 
+The proposed mount is 80 mm long by 40 mm wide by 15.88 mm thick, with one mount per leadscrew. The long side runs along the bottom rail. The mounts bore is centered 40mm from the short end and 20 mm from the long side for alignment with the lead screw. Each block used two M8 bolts with hole centers 15mm from the respective ends and 20mm from the same long edge. The mounting holes are 2 x 9.00-9.22 mm through for normal M8 clearance. The proposed 15.88 mm (0.625 in) thickness provides 0.500 in of nominal screw engagement and leaves the screw tip 0.125 in short of the bottom face. 
 
 
 <img width="1000" height="544" alt="image" src="https://github.com/user-attachments/assets/eed8df94-933c-4a15-b032-d0edd5d51908" />
