@@ -2,13 +2,11 @@
 
 ## Member 1: Pierce Brown
 
-### Objective
-
+### Motor Selection and Attachments - Part 1
+#### Objective
 The objective of part 1 was to select a gear-motor for each lead screw using torque and speed requirements from the previous assignment, A10. Document the motor's rated output torque, speed, efficiency, voltage, current, and mounting. Use the motor's torque-speed curve to verify the motors can handle the 2kN total test load across the 1-50mm/min speed range with the required safety factor of 4. 
 
-### Part 1 - Motor Selection and Attachments
-
-
+#### Analyze
 <img width="955" height="438" alt="image" src="https://github.com/user-attachments/assets/6ca56df2-92ea-48b4-9b4c-9862d3f5ea56" />
 
 The McMaster-Carr 4855N17 gear motor is listed as base mounted. It has a 1/2 ich diameter by 1 inch long keyed output shaft. The reference drawing also shows four #10-32 face holes on a 2.645 by 2.645 inch pattern.
@@ -19,6 +17,21 @@ Using the 2.54mm/rev screw lead from A10, the required cross-head speed of 1-50 
 <img width="751" height="574" alt="image" src="https://github.com/user-attachments/assets/948478c9-c1e8-4681-bbd2-a9b42f47f1f5" />
 
 at the maximum required speed of 19.685 rpm, the 90 V DC torque-speed chart shows around 80-85 lbf*in per moor. This exceeds the required design torque of 48.1 lbf*in per motor, which includes the safety factor of 4. The plotted torque stays above the design requirement throughout the 0.394-19.685 rpm range, supporting the selection of motor 4855N17. https://www.mcmaster.com/4855N17/
+
+### Design Floating Bearing Mount 
+#### Objective 
+    Design a mounting bearing so that the end of the lead screw can rotate. Use a RC3 Fit class and tolerances to affix the mount to the bottom of the frame. Justify each size and location dimension of the mount. Note the functional tolerances for the appropriate dimensions. 
+    
+#### Analyze 
+
+
+The proposed mount is 80 mm long by 40 mm wide by 15.88 mm thick, with one mount per leadscrew. The long side runs along the bottom rail. The mounts bore is centered 40mm from the short end and 20 mm from the long side for alignment with the lead screw. Each block used two M8 bolts with hole centers 15mm from the respective ends and 20mm from the same long edge. The mounting holes are 2 x 9.00-9.22 mm through for normal M8 clearance
+
+<img width="1000" height="544" alt="image" src="https://github.com/user-attachments/assets/eed8df94-933c-4a15-b032-d0edd5d51908" />
+
+For the selected 0.3750 in basic diameter, the RC3 fit gives an H7 bore of 0.3750-0.3756 in and an f6 screw end of 0.3741-0.3745 in. Using these, the diametrical clearance is calculated as 0.0005-0.0015 inch clearance. 
+
+### Lessons Learned
 
 ## Member 2: Rama Hamid
 
