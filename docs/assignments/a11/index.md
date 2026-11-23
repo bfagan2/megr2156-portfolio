@@ -8,14 +8,17 @@ The objective of part 1 was to select a gear-motor for each lead screw using tor
 
 ### Part 1 - Motor Selection and Attachments
 
+
 <img width="955" height="438" alt="image" src="https://github.com/user-attachments/assets/6ca56df2-92ea-48b4-9b4c-9862d3f5ea56" />
 
 The McMaster-Carr 4855N17 gear motor is listed as base mounted. It has a 1/2 ich diameter by 1 inch long keyed output shaft. The reference drawing also shows four #10-32 face holes on a 2.645 by 2.645 inch pattern.
 
+Using the 2.54mm/rev screw lead from A10, the required crosshead speed of 1-50 mm/min corresponds to 0.394-19.685 rpm per motor. The operating thread torque from A10 is 1.36 N*m per screw. Applying the requires safety factor I got a torque of Td = 5.44 N*m or 48.1 lbf*in. 
+
 <img width="748" height="567" alt="image" src="https://github.com/user-attachments/assets/dd9c7e8f-f04f-4140-8896-dbf6662e0823" />
 <img width="751" height="574" alt="image" src="https://github.com/user-attachments/assets/948478c9-c1e8-4681-bbd2-a9b42f47f1f5" />
 
-
+at the maximum required speed of 19.685 rpm, the 90 V DC torque-speed chart shows around 80-85 lbf*in per moor. the plotted torque is higher at all lower speeds in the required range, supporting the selection of motor 4955N17. https://www.mcmaster.com/4855N17/
 
 ## Member 2: Rama Hamid
 
