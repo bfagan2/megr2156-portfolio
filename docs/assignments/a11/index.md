@@ -20,7 +20,8 @@ at the maximum required speed of 19.685 rpm, the 90 V DC torque-speed chart show
 
 ### Design Floating Bearing Mount 
 #### Objective 
-    Design a mounting bearing so that the end of the lead screw can rotate. Use a RC3 Fit class and tolerances to affix the mount to the bottom of the frame. Justify each size and location dimension of the mount. Note the functional tolerances for the appropriate dimensions. 
+
+Design a mounting bearing so that the end of the lead screw can rotate. Use a RC3 Fit class and tolerances to affix the mount to the bottom of the frame. Justify each size and location dimension of the mount. Note the functional tolerances for the appropriate dimensions. 
     
 #### Analyze 
 
