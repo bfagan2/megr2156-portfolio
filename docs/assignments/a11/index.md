@@ -35,6 +35,9 @@ For the selected 0.3750 in basic diameter, the RC3 fit gives an H7 bore of 0.375
 
 ### Lessons Learned
 
+I learned to check a gearmotor's available torque, the relationship between speed and torque via a speed-torque graph, and that the efficiency estimate depends on using electrical input and mechanical output. I also learned how to use RC3 fit tables to set bore and shaft diameter limits, and how to check clearance at both tolerance extremes. Overall I spent roughly 5 hours on gathering the needed information, calculating, and compiling the work done into the portfolio. 
+
+
 ## Member 2: Rama Hamid
 
 ## Objective
