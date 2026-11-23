@@ -28,7 +28,9 @@ Design a mounting bearing so that the end of the lead screw can rotate. Use a RC
 
 The proposed mount is 80 mm long by 40 mm wide by 15.88 mm thick, with one mount per leadscrew. The long side runs along the bottom rail. The mounts bore is centered 40mm from the short end and 20 mm from the long side for alignment with the lead screw. Each block used two M8 bolts with hole centers 15mm from the respective ends and 20mm from the same long edge. The mounting holes are 2 x 9.00-9.22 mm through for normal M8 clearance
 
+
 <img width="1000" height="544" alt="image" src="https://github.com/user-attachments/assets/eed8df94-933c-4a15-b032-d0edd5d51908" />
+
 
 For the selected 0.3750 in basic diameter, the RC3 fit gives an H7 bore of 0.3750-0.3756 in and an f6 screw end of 0.3741-0.3745 in. Using these, the diametrical clearance is calculated as 0.0005-0.0015 inch clearance. 
 
