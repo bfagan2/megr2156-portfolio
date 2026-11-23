@@ -21,12 +21,12 @@ at the maximum required speed of 19.685 rpm, the 90 V DC torque-speed chart show
 ### Design Floating Bearing Mount 
 #### Objective 
 
-Design a mounting bearing so that the end of the lead screw can rotate. Use a RC3 Fit class and tolerances to affix the mount to the bottom of the frame. Justify each size and location dimension of the mount. Note the functional tolerances for the appropriate dimensions. 
+Design a mounting bearing that supports the lower end of the lead screw while allowing it to rotate and move axially. Use a RC3 Fit between the bore and the screw end, and justify the mount dimensions and hole locations. 
     
 #### Analyze 
 
 
-The proposed mount is 80 mm long by 40 mm wide by 15.88 mm thick, with one mount per leadscrew. The long side runs along the bottom rail. The mounts bore is centered 40mm from the short end and 20 mm from the long side for alignment with the lead screw. Each block used two M8 bolts with hole centers 15mm from the respective ends and 20mm from the same long edge. The mounting holes are 2 x 9.00-9.22 mm through for normal M8 clearance
+The proposed mount is 80 mm long by 40 mm wide by 15.88 mm thick, with one mount per leadscrew. The long side runs along the bottom rail. The mounts bore is centered 40mm from the short end and 20 mm from the long side for alignment with the lead screw. Each block used two M8 bolts with hole centers 15mm from the respective ends and 20mm from the same long edge. The mounting holes are 2 x 9.00-9.22 mm through for normal M8 clearance. The proposed 15.88 mm (0.624 in) thickness provides 0.500 in of nominal screw engagement and leaves the screw tip 0.125 in short of the bottom face. 
 
 
 <img width="1000" height="544" alt="image" src="https://github.com/user-attachments/assets/eed8df94-933c-4a15-b032-d0edd5d51908" />
