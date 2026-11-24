@@ -219,4 +219,4 @@ There weren't many issues that were encountered with the side rails, however wit
 
 A major holdup of this part of the project was the software itself. I had to keep troubleshooting issues with Solidworks for days before I could even run the FEA studies. Even during the FEA, the software would suddenly freeze the analysis for over an hour and refuse to continue. I still don't know what caused this issue, I have never experienced it before, however I did learn a lot about troubleshooting meshes and simulation errors.
 
-#_Time Spent: 6 hours_#
+_Time Spent: 6 hours_
