@@ -141,6 +141,8 @@ Through this assignment, I learned how to apply bearing stress, torsional shear 
 
 ## Member 3: Bridget Fagan
 
+### Click [here]([A11 FEA.zip](https://github.com/user-attachments/files/35306260/A11.FEA.zip)) to download the CAD files.
+
 ## Objective
 
 The objective of this part of the assignment was to conduct simulations on the tensile tester assembly to verify that the assembly would survive its application. To do this, we had to apply meshes of three different sizes to the model and run the same study for convergence. The entire frame is made from aluminum with the exception of the steel lead screws. There are two parts to this section. The first part involves testing the top rail to ensure it can withstand the torque and axial loads of the lead screws. The second part involves testing the side rails for the same criteria.
