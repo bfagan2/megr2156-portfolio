@@ -211,6 +211,7 @@ The filled out results table is below:
 
 The results of this study proved that the rails would not fail under the loads from the lead screws and motors.
 
+***_Note: Due to the meshing issues, the results of this study were not convergent and produced results that were massively variant. As such, the results can not be interpreted the same way as Section 5_
 
 #### Optimization Suggestions
 
