@@ -180,13 +180,13 @@ Using a fine mesh may create more accurate results, however it takes more comput
 
 ### Section 6
 
-### Analyze
+## Analyze
 
 #### Model Setup
 
 Constraining this assembly involved removing all members besides the side rails and the top rail. I fixed the end faces of the top rail and applied compression loads down the side rails equivalent to the 1kN loads through the lead screws and a transverse load applied from the center of the assembly towards the outside. 
 
-### Communicate
+## Communicate
 
 #### Meshing and Results
 
@@ -218,3 +218,5 @@ There weren't many issues that were encountered with the side rails, however wit
 ### Lessons Learned
 
 A major holdup of this part of the project was the software itself. I had to keep troubleshooting issues with Solidworks for days before I could even run the FEA studies. Even during the FEA, the software would suddenly freeze the analysis for over an hour and refuse to continue. I still don't know what caused this issue, I have never experienced it before, however I did learn a lot about troubleshooting meshes and simulation errors.
+
+#_Time Spent: 6 hours_#
