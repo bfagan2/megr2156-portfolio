@@ -173,18 +173,18 @@ The feet of the frame and the faces of the frame top were fixed as shown which e
 
 <img width="614" height="266" alt="Screenshot 2026-11-23 151244" src="https://github.com/user-attachments/assets/d7496c0e-a6f6-49d3-9284-773b77886e4d" />
 
-The deflection results showed that the maximum deflection occurred in the center of the rail. If the lead screws were in the assembly, they would provide minimal support to the rail in the center to reduce the deflection. 
+The deflection results showed that the maximum deflection occurred in the center of the rail. If the lead screws were in the assembly, they would provide minimal support to the rail in the center to reduce the deflection. There was no unusual bending or warping in the study, the beam behaved as expected. The end faces were what kept the rail behaving normally. The deflection effects of the load peaked in the center of the beam.
+
 
 ## Communicate
 
 #### Meshing and Results
 
-I used three different mesh sizes in this part (coarse, medium, fine) with the aim to achieve a result that converges. I tested each size of mesh for convergence using the following table:
+I used three different mesh sizes in this part (coarse, medium, fine) with the aim to achieve a result that converges. I tested each size of mesh for convergence and on the three required criteria (stress, displacement, safety factor) using the following table:
 
 <img width="348" height="62" alt="Screenshot 2026-11-23 193940" src="https://github.com/user-attachments/assets/76fe59cd-2c21-4937-99a6-ca3b802254d1" />
 
 I found that increasing the mesh size led to divergence within the results, which was not unexpected. 
-
 
 #### Optimization Suggestions
 
@@ -199,13 +199,15 @@ Using a fine mesh may create more accurate results, however it takes more comput
 
 #### Model Setup
 
+***_Note: Due to constraints on computing power and Random Access Memory, the results of this study were not convergent and produced results that were massively variant. As such, the results can not be interpreted the same way as Section 5. Additionally, the study is missing features, which could not be avoided_
+
 Constraining this assembly involved removing all members besides the side rails and the top rail. I fixed the end faces of the top rail and applied compression loads down the side rails equivalent to the 1kN loads through the lead screws and a transverse load applied from the center of the assembly towards the outside. 
 
 ## Communicate
 
 #### Meshing and Results
 
-I ran into issues running the simulation with finer meshes as my computer did not have enough memory to run the simulation. I had to adjust by removing the top rail and applying the loads directly to the rails, illustrated below.
+I ran into issues running the simulation with finer meshes as my computer did not have enough memory to run the simulation. I had to adjust by removing the top rail and motor brackets, and applying the loads directly to the side rails, illustrated below.
 
 
 Iteration 1 (Coarse Mesh):
@@ -222,9 +224,10 @@ The filled out results table is below:
 
 <img width="347" height="62" alt="Screenshot 2026-11-23 193945" src="https://github.com/user-attachments/assets/ed3ef683-cfd8-434f-a1c3-de8f2b8e70f8" />
 
-The results of this study proved that the rails would not fail under the loads from the lead screws and motors. The most dangerous parameter is deflection, which peaked at 0.19 m. The Von Mises stress peaked at 1.782 x 10^7 N/m^2 which is well within the limit of aluminum.
+The results of this study proved that the rails would not fail under the loads from the lead screws and motors. The most dangerous parameter is deflection, which peaked at 0.19 m. The Von Mises stress peaked at 1.782 x 10^7 N/m^2 which is well within the limit of aluminum. The load path acted along the length of the rail as anticipated, however the transverse loading caused the rails to deflect outwards from the center.
 
-***_Note: Due to the meshing issues, the results of this study were not convergent and produced results that were massively variant. As such, the results can not be interpreted the same way as Section 5_
+The omission of certain parts of the assembly dramatically affected the results of the study. The motor brackets were not present in any of the simulations, and the top rail was absent for the fine mesh run. This caused the side rails to deflect higher up than expected, as there was no top rail to fix them. Additionally, the motor brackets would have allowed the torque and stresses to be transmitted via the interface between the bracket and top rail, instead of in the generalized location that the simulation was conducted with. I understand that the study is therefore incorrect, however, there was no way around this outcome.
+
 
 #### Optimization Suggestions
 
