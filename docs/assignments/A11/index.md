@@ -129,6 +129,19 @@ Grainger product page: https://www.grainger.com/product/80-20-Inside-Corner-Brac
 
 Grainger dimension drawing:  https://www.grainger.com/ec/pdf/grainger-5jru3.pdf
 
+### Cost Tables
+
+Bill of Materials:
+
+<img width="863" height="218" alt="Screenshot 2026-11-23 222122" src="https://github.com/user-attachments/assets/39b65a6e-0df4-44f5-b08e-bfa61bff8ab1" />
+
+<img width="361" height="225" alt="Screenshot 2026-11-23 220615" src="https://github.com/user-attachments/assets/cef529fb-f6f0-4943-8fee-bd3f5014f0ea" />
+
+Design Production Cost:
+
+<img width="234" height="99" alt="Screenshot 2026-11-23 222033" src="https://github.com/user-attachments/assets/0d93c411-c0e0-47d3-a524-2057e711e502" />
+
+
 ### Lessons Learned 
 
 Through this assignment, I learned how to apply bearing stress, torsional shear stress, and equilibrium equations to the design of mechanical components. I also learned that theoretical minimum dimensions are not always the most practical choices, since rigidity, alignment, assembly, and manufacturer specifications must also be considered. This assignment helped me understand how the motor mount, coupler, and frame connections work together in the tensile testing machine.
