@@ -143,29 +143,77 @@ Through this assignment, I learned how to apply bearing stress, torsional shear 
 
 ## Objective
 
-The objective of this part of the assignment was to conduct simulations on the tensile tester assembly to verify that the assembly would survive its application. To do this, we had to apply meshes of three different sizes to the model and run the same study for convergence. The entire frame is made from aluminum with the exception of the steel lead screws.
+The objective of this part of the assignment was to conduct simulations on the tensile tester assembly to verify that the assembly would survive its application. To do this, we had to apply meshes of three different sizes to the model and run the same study for convergence. The entire frame is made from aluminum with the exception of the steel lead screws. There are two parts to this section. The first part involves testing the top rail to ensure it can withstand the torque and axial loads of the lead screws. The second part involves testing the side rails for the same criteria.
 
 ## Analyze
 
 ### Section 5
 
+
 #### Model Setup
 
-Part 5 required the testing of the top of the frame against the applied torque from the motor as well as the axial force through the lead screws. To set up the model, I removed the crosshead assembly including the nut and flange and the lead screws. The crosshead assembly does not affect the results of the study, and the lead screws do not mesh correctly in coarser sizes. To get around this, I removed the lead screws and instead applied the axial force around the rim of the hole the lead screw was in. The hole has a sharp corner, and from the results of my first study with a coarse mesh, the maximum stress occurred at those corners. This would be concerning if not for the fact that the lead screw is not directly mounted to the top of the frame in the way that is described. The feet of the frame and the faces of the frame top were fixed as shown to provide more accurate results in the analysis. I conducted the study this way to understand the worst possible case of loading, and I found that the maximum stress was within the elastic region for aluminum.
+Part 5 required the testing of the top of the frame against the applied torque from the motor as well as the axial force through the lead screws. To set up the model, I removed the crosshead assembly including the nut and flange and the lead screws. The crosshead assembly does not affect the results of the study, and the lead screws do not mesh correctly in coarser sizes. To get around this, I removed the lead screws and instead applied the axial force around the rim of the hole the lead screw was in. The hole has a sharp corner, and from the results of my first study with a coarse mesh, the maximum stress occurred at those corners. This would be concerning if not for the fact that the lead screw is not directly mounted to the top of the frame in the way that is described. 
+
+The feet of the frame and the faces of the frame top were fixed as shown which emulates the standard loading conditions of a simply supported beam. I conducted the study this way to understand the worst possible case of loading, and I found that the maximum stress was within the elastic region for aluminum, at 4.86 x 10^7 N/m^2.
+
+<img width="614" height="266" alt="Screenshot 2026-11-23 151244" src="https://github.com/user-attachments/assets/d7496c0e-a6f6-49d3-9284-773b77886e4d" />
+
+The deflection results showed that the maximum deflection occurred in the center of the rail. If the lead screws were in the assembly, they would provide minimal support to the rail in the center to reduce the deflection. 
+
+## Communicate
 
 #### Meshing and Results
 
-I tested each size of mesh for convergence using the following table:
+I used three different mesh sizes in this part (coarse, medium, fine) with the aim to achieve a result that converges. I tested each size of mesh for convergence using the following table:
+
+<img width="348" height="62" alt="Screenshot 2026-11-23 193940" src="https://github.com/user-attachments/assets/76fe59cd-2c21-4937-99a6-ca3b802254d1" />
+
+I found that increasing the mesh size led to divergence within the results, which was not unexpected. 
 
 
 #### Optimization Suggestions
 
 To optimize the model of the frame top, I would suggest adding fillets or chamfers around the holes in the rail. This will reduce stress around the hole and prevent edge degradation through use. To reduce the large deflection in the center, I would install the gusseted brackets discussed in Part 4 between the top rail and side rails to increase the support from the ends.
 
-## Decide
-_Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
+Using a fine mesh may create more accurate results, however it takes more computing power and time. I would suggest using a medium mesh as a midpoint between computation time and accuracy.
 
-## Communicate
+
+### Section 6
+
+### Analyze
+
+#### Model Setup
+
+Constraining this assembly involved removing all members besides the side rails and the top rail. I fixed the end faces of the top rail and applied compression loads down the side rails equivalent to the 1kN loads through the lead screws and a transverse load applied from the center of the assembly towards the outside. 
+
+### Communicate
+
+#### Meshing and Results
+
+I ran into issues running the simulation with finer meshes as my computer did not have enough memory to run the simulation. I had to adjust by removing the top rail and applying the loads directly to the rails, illustrated below.
+
+
+Iteration 1 (Coarse Mesh):
+
+<img width="484" height="299" alt="Screenshot 2026-11-23 162123" src="https://github.com/user-attachments/assets/567b95cd-9c51-4075-b4a4-40a002fc9f7c" />
+
+
+Iteration 3 (Fine Mesh):
+
+<img width="460" height="302" alt="Screenshot 2026-11-23 175607" src="https://github.com/user-attachments/assets/d1fccb27-3bda-4251-aa8a-77facaedd597" />
+
+
+The filled out results table is below:
+
+<img width="347" height="62" alt="Screenshot 2026-11-23 193945" src="https://github.com/user-attachments/assets/ed3ef683-cfd8-434f-a1c3-de8f2b8e70f8" />
+
+The results of this study proved that the rails would not fail under the loads from the lead screws and motors.
+
+
+#### Optimization Suggestions
+
+There weren't many issues that were encountered with the side rails, however with the inclusion of the bracket mentioned above in Section 5, the rails would remain more stable when load is applied. Beyond the gusset brackets on the bottom rail and the brackets on the top rail, there isn't much to optimize the side rails. If the load increases in the lead screws, we might consider a rod through the center of the rails to decrease transverse deflection.
+
 
 ### Lessons Learned
 
