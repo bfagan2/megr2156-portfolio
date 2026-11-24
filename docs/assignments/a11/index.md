@@ -141,7 +141,7 @@ Through this assignment, I learned how to apply bearing stress, torsional shear 
 
 ## Member 3: Bridget Fagan
 
-### Click [here]([A11 FEA.zip](https://github.com/user-attachments/files/35306260/A11.FEA.zip)) to download the CAD files.
+### Click ([here]([A11 FEA.zip](https://github.com/user-attachments/files/35306911/A11.FEA.zip)) to download the CAD files.
 
 ## Objective
 
