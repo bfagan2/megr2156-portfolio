@@ -209,7 +209,7 @@ The filled out results table is below:
 
 <img width="347" height="62" alt="Screenshot 2026-11-23 193945" src="https://github.com/user-attachments/assets/ed3ef683-cfd8-434f-a1c3-de8f2b8e70f8" />
 
-The results of this study proved that the rails would not fail under the loads from the lead screws and motors.
+The results of this study proved that the rails would not fail under the loads from the lead screws and motors. The most dangerous parameter is deflection, which peaked at 0.19 m. The Von Mises stress peaked at 1.782 x 10^7 N/m^2 which is well within the limit of aluminum.
 
 ***_Note: Due to the meshing issues, the results of this study were not convergent and produced results that were massively variant. As such, the results can not be interpreted the same way as Section 5_
 
